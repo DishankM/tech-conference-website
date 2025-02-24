@@ -12,8 +12,7 @@ A fictional **Tech Conference Website** built using **SvelteKit** and **Tailwind
 ✅ **Contact Page:** Contact form (Name, Email, Message) with social media links.  
 
 ## 🎯 Bonus Features (Implemented)
-
-- 🌙 **Dark Mode Toggle**  
+ 
 - ⏳ **Countdown Timer** on the home page  
 - 🏆 **Different sponsor tiers** (Gold, Silver, Bronze)   
 
